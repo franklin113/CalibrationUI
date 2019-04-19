@@ -13,7 +13,7 @@ Masking -
   - import an image file to use as a mask for each output
   
 Media playback - 
-  - Simple one video/iamge playback
+  - Simple one video/image playback
   
 Pixel Mapping - 
   - Move crosshairs around the UV map of your model to assist in the creation of a pixel map
